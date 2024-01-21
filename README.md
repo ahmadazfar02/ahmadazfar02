@@ -9,7 +9,7 @@ I am a 1st-year Software Engineering student at University Technology Malaysia a
 2) Smart Agriculture using NodeMCU
 
 Achievement:
-1) Receiving Fundemnatal of AI Certificate by Microsoft 
+1) Receiving fundamental of AI Certificate by Microsoft 
 
 * 🌍  I'm based in Subang Jaya
 * ✉️  You can contact me at [ahmadazfar02@gmail.com](mailto:ahmadazfar02@gmail.com)
