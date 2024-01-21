@@ -4,7 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 1st Year Software Engineering Student
 -------------------------------------
 
-I am a 1st-year Software Engineering student at University Technology Malaysia and holding an Electronic Engineering Diploma. Additionally, I have nearly one year of work experience in the industry as an IoT Technical Engineer in a local company. I enjoy coding and brainstorming ideas for projects that involve electronic inputs integrated with software. Some of the projects I've completed include: 1) Smart Parking System using ESP32CAM 2) Smart Agriculture using NodeMCU
+I am a 1st-year Software Engineering student at University Technology Malaysia and holding an Electronic Engineering Diploma. Additionally, I have nearly one year of work experience in the industry as an IoT Technical Engineer in a local company. I enjoy coding and brainstorming ideas for projects that involve electronic inputs integrated with software. Some of the projects I've completed include: 
+1) Smart Parking System using ESP32CAM
+2) Smart Agriculture using NodeMCU
+
+Achievement:
+1) Receiving Fundemnatal of AI Certificate by Microsoft 
 
 * 🌍  I'm based in Subang Jaya
 * ✉️  You can contact me at [ahmadazfar02@gmail.com](mailto:ahmadazfar02@gmail.com)
